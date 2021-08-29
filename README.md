@@ -9,6 +9,7 @@ Estudo sobre OWASP API Security Project: https://owasp.org/www-project-api-secur
 
 # Referências
 * https://www.hanselman.com/blog/easily-adding-security-headers-to-your-aspnet-core-web-app-and-getting-an-a-grade
+* https://cheatsheetseries.owasp.org/cheatsheets/REST_Security_Cheat_Sheet.html
 * https://geekflare.com/online-scan-website-security-vulnerabilities/
 * https://www.mikegingerich.com/blog/4-online-free-tools-to-scan-website-security-vulnerabilities-malware/
 * https://owasp.org/www-community/Vulnerability_Scanning_Tools
